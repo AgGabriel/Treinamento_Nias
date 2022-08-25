@@ -16,4 +16,5 @@ tweets = [
 
 def analise_tweets (tweets):
     qnt = len(tweets)
-    
+return qnt
+print (qnt)
